@@ -16,8 +16,12 @@ This file is updated by the Mapilus pipeline after each pack publication.
 ## World detail (download, z5–z7)
 
 - Pack: `world-detail.mbtiles`
+- Version: `2026.11.12`
+- Bytes: `18,251,776`
+- SHA-256: `b2245b9437a29cf1915fd64a1aaa708d8464ddbe80a6553912b6271bb84f652d`
 - Licence: ODbL 1.0 / GEBCO public domain
-- Status: pending publication.
+- Status: published at
+  https://ibscnuqatzaxsjusikkf.supabase.co/storage/v1/object/public/chart-packs/world-detail/2026.11.12
 
 ## Côte d'Opale (download, z6–z14)
 
